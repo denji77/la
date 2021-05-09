@@ -1,6 +1,6 @@
 aiohttp
 asyncio
-aria2p
+aria2
 feedparser
 pyrogram
 tgcrypto
