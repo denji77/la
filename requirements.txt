@@ -1,9 +1,5 @@
-aiohttp
-asyncio
-aria2p
-hachoir
-Pillow
 feedparser
 pyrogram
 tgcrypto
 natsort
+aiohttp
