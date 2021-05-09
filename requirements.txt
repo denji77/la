@@ -1,6 +1,5 @@
-aiohttp
+aria2p
 feedparser
 pyrogram
 tgcrypto
 natsort
-aria2p
